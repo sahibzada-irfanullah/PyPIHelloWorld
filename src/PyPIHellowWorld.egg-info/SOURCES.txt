@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/first.py
+src/main.py
+src/PyPIHellowWorld.egg-info/PKG-INFO
+src/PyPIHellowWorld.egg-info/SOURCES.txt
+src/PyPIHellowWorld.egg-info/dependency_links.txt
+src/PyPIHellowWorld.egg-info/entry_points.txt
+src/PyPIHellowWorld.egg-info/requires.txt
+src/PyPIHellowWorld.egg-info/top_level.txt
