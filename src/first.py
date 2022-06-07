@@ -13,12 +13,15 @@ df = pd.DataFrame(
     }
 )
 def add(a, b):
+    print("Calling addition")
     return a + b
 
 def sub(a, b):
+    print("calling subtraction")
     return a - b
 
 def mul(a, b):
+    print("Calling multiplication")
     return a * b
 
 def quicktext():
